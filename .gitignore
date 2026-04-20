@@ -1,0 +1,11 @@
+# Ignore the entire data folder
+data/
+
+# Ignore a specific file
+secret_passwords.txt
+
+# Ignore all CSV files anywhere in the project
+*.csv
+
+# Ignore all Jupyter Notebook check points
+.ipynb_checkpoints/
